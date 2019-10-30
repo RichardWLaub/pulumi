@@ -22,7 +22,7 @@ You can easily get all required dependencies with brew
 
 ```bash
 brew install node pipenv python@3 typescript yarn go golangci/tap/golangci-lint
-brew cask install dotnet
+brew cask install dotnet-sdk
 ```
 
 ## Make build system
